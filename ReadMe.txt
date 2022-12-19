@@ -1,12 +1,15 @@
+【リンク】
+https://apps.apple.com/jp/app/%E6%B6%88%E6%AF%92%E7%8E%8B/id1584567692
+
 【制作期間】
  2021/4月頃～10月くらい
+
+【説明】
+C＃ Unity学習の為、app storeに公開したもの
 
 【使用アセット】
 DOTween
 TextMeshPro　等
-
-【説明】
-C＃ Unity学習の為、app storeに公開したもの
 
 【自作部分】
 アセット使用箇所以外ほぼ自作
